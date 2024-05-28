@@ -12,4 +12,6 @@ git remote add origin https://github.com/foxcodex/surveyform.git
 git branch -M main
 git push -u origin main
 ==========================================
-1.) git init .
+1.) git add .
+2.) git commit -m "Commentaire"
+3.) git push
